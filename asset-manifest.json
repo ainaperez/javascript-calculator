@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ainaperez/javascript-calculator/static/css/main.af8f6409.chunk.css",
+    "main.js": "/ainaperez/javascript-calculator/static/js/main.d09740b6.chunk.js",
+    "main.js.map": "/ainaperez/javascript-calculator/static/js/main.d09740b6.chunk.js.map",
+    "runtime-main.js": "/ainaperez/javascript-calculator/static/js/runtime-main.48d6f3b0.js",
+    "runtime-main.js.map": "/ainaperez/javascript-calculator/static/js/runtime-main.48d6f3b0.js.map",
+    "static/js/2.2953931b.chunk.js": "/ainaperez/javascript-calculator/static/js/2.2953931b.chunk.js",
+    "static/js/2.2953931b.chunk.js.map": "/ainaperez/javascript-calculator/static/js/2.2953931b.chunk.js.map",
+    "static/js/3.ad994965.chunk.js": "/ainaperez/javascript-calculator/static/js/3.ad994965.chunk.js",
+    "static/js/3.ad994965.chunk.js.map": "/ainaperez/javascript-calculator/static/js/3.ad994965.chunk.js.map",
+    "index.html": "/ainaperez/javascript-calculator/index.html",
+    "static/css/main.af8f6409.chunk.css.map": "/ainaperez/javascript-calculator/static/css/main.af8f6409.chunk.css.map",
+    "static/js/2.2953931b.chunk.js.LICENSE.txt": "/ainaperez/javascript-calculator/static/js/2.2953931b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d6f3b0.js",
+    "static/js/2.2953931b.chunk.js",
+    "static/css/main.af8f6409.chunk.css",
+    "static/js/main.d09740b6.chunk.js"
+  ]
+}
